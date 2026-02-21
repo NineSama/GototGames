@@ -1,0 +1,41 @@
+- TopDown RPG/Survival - Open World Game
+Solo Gameplay
+    - World looking like Dont starve :
+        - Random world generation
+        - Bird's perspective (topdown TPS)
+        - Day/Night Cycle
+        - Flat world (unless we find a way to make Z-axis terrain)
+        - Spread out ressources : trees, rocks, plants ... 
+        - Biomes : plains, snow, river, forest ...
+    - Basic survival needs :
+        - HP
+        - Energy (for running (?) / combat)
+        - Hunger
+        - Thirst
+    - Combat Mechanics - Skillshot system only, hitboxes, like Battlerite:
+        - Light Form :
+            - Distance form
+            - Spells : Heal, Frost/Fire bolts ...
+            - Less HP (idk)
+        - Dark Form :
+            - Melee form
+            - Close range attacks
+            - Better armor
+    - Fighting content :
+        - Bosses fight like hollow knight
+        - Choregraphy and mechanics bosses
+        - Limited space / Platforms
+    - Ressource gathering / Crafting 
+        - Chop down wood, mining rocks, farming plants ...
+        - Basic crafting system to upgrade character : spells, hp, armor, weapons etc.. 
+    - Building ?
+        - Templates to make a base
+        - Farms (trees, plants, food ...)
+
+    
+    - Possible adds :
+        - Tame / Mount animals
+        - Character customization
+        - Lore / Leading player throughout the game
+        - Rare spawns : giving special ressources
+        - Seasons
