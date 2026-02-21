@@ -38,4 +38,4 @@ Solo Gameplay
         - Character customization
         - Lore / Leading player throughout the game
         - Rare spawns : giving special ressources
-        - Seasons
+        - Seasons (for variety)
